@@ -354,14 +354,10 @@
     padding-bottom: 20px;
     padding-right: 24px;
 
-    box-sizing: border-box;
     border-bottom: 1px solid #EEEEEE;
     border-left: 1px solid #EEEEEE;
     border-right: 1px solid #EEEEEE;    
 }
-
-/* border: 1px solid #EEEEEE;
-box-sizing: border-box; */
 
 .projects .item:nth-child(3n) {
     margin-right: 0;
